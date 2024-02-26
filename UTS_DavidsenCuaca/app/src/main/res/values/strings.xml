@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">UTS_DavidsenCuaca</string>
+    <string name="sep"></string>
+    <string name="profile">Profil</string>
+    <string name="nama">Davidsen Cuaca</string>
+    <string name="nim">03081220040</string>
+    <string name="uph">UPH</string>
+    <string name="medan">Medan</string>
+    <string name="fakultas">Fakultas Ilmu Komputer</string>
+    <string name="jurusan">Jurusan Sistem Informasi</string>
+    <string name="tahun">Tahun ke 2</string>
+    <string name="semester">Semester 4</string>
+    <string name="angka">1108</string>
+    <string name="sep1">Student Engagement poin</string>
+    <string name="Profil">Profil</string>
+    <string name="Ubah">Ubah Profil Saya</string>
+    <string name="angka1">64 SEP Poin</string>
+    <string name="angka2">32 SEP Poin</string>
+    <string name="angka3">32 SEP Poin</string>
+    <string name="angka4">60 SEP Poin</string>
+    <string name="survei">Survei Misi Misi Tujuan UPH November 2023</string>
+    <string name="Sketch">Sketch Your Path 2.0 2023</string>
+    <string name="Talk">Talkshow Ruang Pangan 2023</string>
+    <string name="day">Day of Togetherness and Sharing 2023</string>
+    <string name="riwayat">Riwayat SEP Poin</string>
+    <string name="tgl1">21 10 23</string>
+    <string name="tgl2">25 10 23</string>
+    <string name="tgl3">11 11 23</string>
+    <string name="tgl4">1 12 23</string>
+    <string name="student">Student ID</string>
+    <string name="tahun1">Tahun Masuk</string>
+    <string name="nama1">Nama</string>
+    <string name="jurusan1">Jurusan</string>
+    <string name="status">Status Mahasiswa</string>
+    <string name="kampus">Kampus</string>
+
+
+
+
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="huruf1">12sp</dimen>
+    <dimen name="huruf2">18sp</dimen>
+    <dimen name="huruf3">20sp</dimen>
+    <dimen name="huruf4">28sp</dimen>
+</resources>
